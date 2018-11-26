@@ -1,11 +1,9 @@
 {
   "name": "shopifyscrape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shopify Website Scraper",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "shopify",
     "web",
@@ -14,6 +12,11 @@
     "javascript",
     "node.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdradford/ShopifyProductScraper.git"
+  },
+  "homepage": "https://github.com/qdradford/ShopifyProductScraper",
   "author": "qrxcrk",
   "license": "ISC",
   "dependencies": {
