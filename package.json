@@ -1,0 +1,24 @@
+{
+  "name": "shopifyscrape",
+  "version": "1.0.0",
+  "description": "Shopify Website Scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shopify",
+    "web",
+    "scraper",
+    "node.js",
+    "javascript",
+    "node.js"
+  ],
+  "author": "qrxcrk",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "request": "2.88.0",
+    "xml2js": "0.4.19"
+  }
+}
