@@ -2,8 +2,10 @@
   "name": "shopifyscrape",
   "version": "1.0.1",
   "description": "Shopify Website Scraper",
-  "main": "server.js",
-  "scripts": {},
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
   "keywords": [
     "shopify",
     "web",
